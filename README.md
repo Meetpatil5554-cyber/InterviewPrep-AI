@@ -1,5 +1,12 @@
 # InterviewPrep AI
 
+## Live Links
+
+- **Live app**: https://interview-prep-ai-alpha-three.vercel.app
+- **GitHub repo**: https://github.com/Meetpatil5554-cyber/interviewprep-ai
+- **Note**: the backend is on Render's free tier and may take 30-50 seconds to wake up on the first request if it's been idle.
+
+
 An AI mock-interview coach. Upload a resume or job description photo, get tailored
 interview questions from Groq AI, practice, get scored, and track your readiness
 over time on an analytics dashboard.
