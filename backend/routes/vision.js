@@ -2,7 +2,7 @@ import express from "express";
 
 const router = express.Router();
 const GROQ_URL = "https://api.groq.com/openai/v1/chat/completions";
-const VISION_MODEL = "qwen/qwen3.6-27b";
+const VISION_MODEL = "qwen/qwen3.8-27b";
 
 // Accepts a base64 image (data URL) and returns extracted text
 router.post("/extract-text", async (req, res) => {
